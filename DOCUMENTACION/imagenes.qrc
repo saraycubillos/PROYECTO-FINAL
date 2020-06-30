@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/IMAGENES">
+        <file>BOLADEMETAL.png</file>
+        <file>ENEMIGO.png</file>
+        <file>LADRILLOS.htm</file>
+        <file>MURO PIEDRA.png</file>
+        <file>PAREDPIEDRAS.jpg</file>
+        <file>PERSONAJE1.png</file>
+        <file>PisoPiedra.jpg</file>
+        <file>PUERTA.png</file>
+        <file>TUMBLEWEED.png</file>
+        <file>BLOQUE.jpg</file>
+        <file>llave.png</file>
+        <file>piedra.png</file>
+        <file>lanzador.png</file>
+        <file>BOLADEFUEGO.png</file>
+    </qresource>
+</RCC>
